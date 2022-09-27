@@ -1,0 +1,13 @@
+{
+    "name": "tsoulo/portal",
+    "description": "A simple Student Portal for taking up online assignments and lot more",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thabang soulo",
+            "email": "tsoulo@student.wethinkcode.co.za"
+        }
+    ],
+    "require": {}
+}
