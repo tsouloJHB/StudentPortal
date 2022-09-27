@@ -119,8 +119,7 @@
 		</div>
 
 		<script type="text/javascript">
-		// SHOW PREVIEW OF UPLOADED IMAGE. CODE TAKEN FROM---
-		// https://itsolutionstuff.com/post/display-preview-selected-image-in-input-type-file-using-jqueryexample.html
+		
     	function readURL(input) {
         	if (input.files && input.files[0]) {
             	var reader = new FileReader();
